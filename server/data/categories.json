@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Sashimi"
+    },
+    {
+        "id": 2,
+        "name": "Gunkan"
+    },
+    {
+        "id": 3,
+        "name": "Makimono"
+    },
+    {
+        "id": 4,
+        "name": "Nigiri"
+    },
+    {
+        "id": 5,
+        "name": "Appetizer"
+    }
+]

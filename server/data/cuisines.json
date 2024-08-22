@@ -1,0 +1,272 @@
+[
+    {
+        "id": 1,
+        "name": "Fattiest Tuna (Ohtoro-Sashimi)",
+        "description": "Fattiest Tuna (Ohtoro-Sashimi)",
+        "price": 90000,
+        "imgUrl": "https://genkisushi.co.id/media/2020/06/fattiest-tuna-ohtoro-sashimi.jpg",
+        "categoryId": 1,
+        "authorId": 1
+    },
+    {
+        "id": 2,
+        "name": "Tuna Sashimi 3 Flavour",
+        "description": "Tuna Sashimi 3 Flavour",
+        "price": 85000,
+        "imgUrl": "https://genkisushi.co.id/media/2020/06/tuna-sashimi-3-flavour.jpg",
+        "categoryId": 1,
+        "authorId": 1
+    },
+    {
+        "id": 3,
+        "name": "Fatty Tuna (Chutoro) Sashimi",
+        "description": "Fatty Tuna (Chutoro) Sashimi",
+        "price": 80000,
+        "imgUrl": "https://genkisushi.co.id/media/2020/06/fatty-tuna-chutoro-sashimi.jpg",
+        "categoryId": 1,
+        "authorId": 1
+    },
+    {
+        "id": 4,
+        "name": "Salmon Belly Sashimi",
+        "description": "Salmon Belly Sashimi",
+        "price": 58000,
+        "imgUrl": "https://genkisushi.co.id/media/2020/06/salmon-belly-sashimi.jpg",
+        "categoryId": 1,
+        "authorId": 1
+    },
+    {
+        "id": 5,
+        "name": "Scallop Sashimi",
+        "description": "Scallop Sashimi",
+        "price": 55000,
+        "imgUrl": "https://genkisushi.co.id/media/2020/06/scallop-sashimi.jpg",
+        "categoryId": 1,
+        "authorId": 1
+    },
+    {
+        "id": 6,
+        "name": "Chuka Jelly Fish Gunkan",
+        "description": "Chuka Jelly Fish Gunkan",
+        "price": 26000,
+        "imgUrl": "https://genkisushi.co.id/media/2020/06/chuka-jelly-fish-gunkan.jpg",
+        "categoryId": 2,
+        "authorId": 1
+    },
+    {
+        "id": 7,
+        "name": "Kanikama Salad Gunkan",
+        "description": "Kanikama Salad Gunkan",
+        "price": 26000,
+        "imgUrl": "https://genkisushi.co.id/media/2020/06/kanikama-salad-gunkan.jpg",
+        "categoryId": 2,
+        "authorId": 1
+    },
+    {
+        "id": 8,
+        "name": "Spicy Salmon Salad Gunkan",
+        "description": "Spicy Salmon Salad Gunkan",
+        "price": 26000,
+        "imgUrl": "https://genkisushi.co.id/media/2020/06/spicy-salmon-salad-gunkan.jpg",
+        "categoryId": 2,
+        "authorId": 1
+    },
+    {
+        "id": 9,
+        "name": "Poke Gunkan",
+        "description": "Poke Gunkan",
+        "price": 26000,
+        "imgUrl": "https://genkisushi.co.id/media/2020/06/poke-gunkan.jpg",
+        "categoryId": 2,
+        "authorId": 1
+    },
+    {
+        "id": 10,
+        "name": "Tuna Salad Gunkan",
+        "description": "Tuna Salad Gunkan",
+        "price": 26000,
+        "imgUrl": "https://genkisushi.co.id/media/2020/06/tuna-salad-gunkan.jpg",
+        "categoryId": 2,
+        "authorId": 1
+    },
+    {
+        "id": 11,
+        "name": "Onigiri Okaka",
+        "description": "Onigiri Okaka",
+        "price": 15000,
+        "imgUrl": "https://genkisushi.co.id/media/2020/06/onigiri-okaka.jpg",
+        "categoryId": 3,
+        "authorId": 1
+    },
+    {
+        "id": 12,
+        "name": "Onigiri Minched Chicken",
+        "description": "Onigiri Minched Chicken",
+        "price": 15000,
+        "imgUrl": "https://genkisushi.co.id/media/2020/06/onigiri-minched-chicken.jpg",
+        "categoryId": 3,
+        "authorId": 1
+    },
+    {
+        "id": 13,
+        "name": "Beef Teriyaki Onigiri",
+        "description": "Onigiri Minched Chicken",
+        "price": 15000,
+        "imgUrl": "https://genkisushi.co.id/media/2020/06/beef-teriyaki-onigiri.jpg",
+        "categoryId": 3,
+        "authorId": 1
+    },
+    {
+        "id": 14,
+        "name": "Onigiri Tuna Mayo",
+        "description": "Onigiri Tuna Mayo",
+        "price": 15000,
+        "imgUrl": "https://genkisushi.co.id/media/2020/06/onigiri-tuna-mayo.jpg",
+        "categoryId": 3,
+        "authorId": 1
+    },
+    {
+        "id": 15,
+        "name": "Onigiri Baked Salmon",
+        "description": "Onigiri Baked Salmon",
+        "price": 15000,
+        "imgUrl": "https://genkisushi.co.id/media/2020/06/onigiri-baked-salmon.jpg",
+        "categoryId": 3,
+        "authorId": 1
+    },
+    {
+        "id": 16,
+        "name": "Yuzu Salmon Nigiri",
+        "description": "Yuzu Salmon Nigiri",
+        "price": 30000,
+        "imgUrl": "https://genkisushi.co.id/media/2020/06/yuzu-salmon-nigiri.jpg",
+        "categoryId": 4,
+        "authorId": 1
+    },
+    {
+        "id": 17,
+        "name": "Yuzu Hotate Nigiri",
+        "description": "Yuzu Hotate Nigiri",
+        "price": 32000,
+        "imgUrl": "https://genkisushi.co.id/media/2020/06/yuzu-hotate-nigiri.jpg",
+        "categoryId": 4,
+        "authorId": 1
+    },
+    {
+        "id": 18,
+        "name": "Yuzu Ebi Nigiri",
+        "description": "Yuzu Ebi Nigiri",
+        "price": 28000,
+        "imgUrl": "https://genkisushi.co.id/media/2020/06/yuzu-ebi-nigiri.jpg",
+        "categoryId": 4,
+        "authorId": 1
+    },
+    {
+        "id": 19,
+        "name": "Fatty Tuna Nigiri",
+        "description": "Fatty Tuna Nigiri",
+        "price": 40000,
+        "imgUrl": "https://genkisushi.co.id/media/2020/06/fatty-tuna-nigiri.jpg",
+        "categoryId": 4,
+        "authorId": 1
+    },
+    {
+        "id": 20,
+        "name": "Fattiest Tuna Nigiri",
+        "description": "Fattiest Tuna Nigiri",
+        "price": 50000,
+        "imgUrl": "https://genkisushi.co.id/media/2020/06/fattiest-tuna-nigiri.jpg",
+        "categoryId": 4,
+        "authorId": 1
+    },
+    {
+        "id": 21,
+        "name": "Tofu Salad With Miso Dressing",
+        "description": "Tofu Salad With Miso Dressing",
+        "price": 25000,
+        "imgUrl": "https://genkisushi.co.id/media/2020/06/tofu-salad-with-miso-dressing.jpg",
+        "categoryId": 5,
+        "authorId": 1
+    },
+    {
+        "id": 22,
+        "name": "Wakame Salad With Miso Dressing",
+        "description": "Wakame Salad With Miso Dressing",
+        "price": 25000,
+        "imgUrl": "https://genkisushi.co.id/media/2020/06/wakame-salad-with-miso-dressing.jpg",
+        "categoryId": 5,
+        "authorId": 1
+    },
+    {
+        "id": 23,
+        "name": "Fried Tofu With Miso Dressing",
+        "description": "Fried Tofu With Miso Dressing",
+        "price": 25000,
+        "imgUrl": "https://genkisushi.co.id/media/2020/06/fried-tofu-with-miso-dressing.jpg",
+        "categoryId": 5,
+        "authorId": 1
+    },
+    {
+        "id": 24,
+        "name": "Deep Fried Chicken Salad",
+        "description": "Deep Fried Chicken Salad",
+        "price": 40000,
+        "imgUrl": "https://genkisushi.co.id/media/2020/06/deep-fried-chicken-salad.jpg",
+        "categoryId": 5,
+        "authorId": 1
+    },
+    {
+        "id": 25,
+        "name": "FG Egg Salad",
+        "description": "FG Egg Salad",
+        "price": 25000,
+        "imgUrl": "https://genkisushi.co.id/media/2020/06/fg-egg-salad.jpg",
+        "categoryId": 5,
+        "authorId": 1
+    },
+    {
+        "id": 26,
+        "name": "Tuna Sashimi",
+        "description": "Tuna Sashimi",
+        "price": 40000,
+        "imgUrl": "https://genkisushi.co.id/media/2020/06/tuna-sashimi.jpg",
+        "categoryId": 1,
+        "authorId": 2
+    },
+    {
+        "id": 27,
+        "name": "Corn Gunkan",
+        "description": "Corn Gunkan",
+        "price": 15000,
+        "imgUrl": "https://genkisushi.co.id/media/2020/06/corn-gunkan.jpg",
+        "categoryId": 2,
+        "authorId": 2
+    },
+    {
+        "id": 28,
+        "name": "Spider Handroll",
+        "description": "Spider Handroll",
+        "price": 38000,
+        "imgUrl": "https://genkisushi.co.id/media/2020/06/spider-handroll.jpg",
+        "categoryId": 3,
+        "authorId": 2
+    },
+    {
+        "id": 29,
+        "name": "Seared Shrimp With Pollock Roe",
+        "description": "Seared Shrimp With Pollock Roe",
+        "price": 28000,
+        "imgUrl": "https://genkisushi.co.id/media/2020/06/seared-shrimp-with-pollock-roe.jpg",
+        "categoryId": 4,
+        "authorId": 2
+    },
+    {
+        "id": 30,
+        "name": "Baby Octopus",
+        "description": "Baby Octopus",
+        "price": 40000,
+        "imgUrl": "https://genkisushi.co.id/media/2020/06/baby-octopus.jpg",
+        "categoryId": 5,
+        "authorId": 2
+    }
+]
