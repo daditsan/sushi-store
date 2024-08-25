@@ -48,11 +48,11 @@ This sushi store CMS website allows users to browse products, add a new product 
 Set up your .env file with the following variables:
 
 ```env
-PORT:
-JWT_SECRET:
-CLOUDINARY_CLOUD_NAME:
-CLOUDINARY_API_KEY:
-CLOUDINARY_API_SECRET:
+PORT=your_port
+JWT_SECRET=your_jwt_secret
+CLOUDINARY_CLOUD_NAME=your_cloudinary_cloud_name
+CLOUDINARY_API_KEY=your_cloudinary_api_key
+CLOUDINARY_API_SECRET=your_cloudinary_api_secret
 ```
 
 ### Setup Instructions
