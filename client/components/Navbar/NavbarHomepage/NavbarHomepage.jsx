@@ -27,7 +27,7 @@ export default function NavbarHomepage({ setSort, search, setSearch, submitSearc
                 href="/"
                 >
                     <img
-                        src="https://i.ibb.co.com/1Mb5CtB/Transportation-Rental-Logo.png"
+                        src="https://genkisushi.co.id/wp-content/uploads/2020/02/Logo-Genki-Sushi-Indonesia-Header.png"
                         height="27px"
                         alt="Logo"
                         loading="lazy"
