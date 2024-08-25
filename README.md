@@ -19,6 +19,9 @@ An online sushi store built with React for content management system (CMS). Usin
     - [Product Detail Page](#product-detail-page)
     - [Login Page](#login-page)
     - [CMS Dashboard Page](#cms-dashboard-page)
+    - [CMS Dashboard Page 2](#cms-dashboard-page-2)
+    - [Add a Staff Page](#add-a-staff-page)
+    - [Add a Product Page](#add-a-product-page)
   - [Contact Information](#contact-information)
 
 ## Introduction
@@ -96,6 +99,18 @@ Access the website at <http://localhost:5173>
 ### CMS Dashboard Page
 
 ![CMS Dashboard Page](CMS_Dashboard_Page.png)
+
+### CMS Dashboard Page 2
+
+![CMS Dashboard Page 2](CMS_Dashboard_Page_2.png)
+
+### Add a Staff Page
+
+![Add a Staff Page](Add_a_Staff_Page.png)
+
+### Add a Product Page
+
+![Add a Product Page](Add_a_Product_Page.png)
 
 ## Contact Information
 
