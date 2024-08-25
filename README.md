@@ -1,6 +1,6 @@
 # Sushi Store
 
-An online sushi store built with React for content management system (CMS).
+An online sushi store built with React for content management system (CMS). Using Genki Sushi assets for demo and educational purposes.
 
 ## Table of Contents
 
@@ -15,6 +15,7 @@ An online sushi store built with React for content management system (CMS).
     - [Setup Instructions](#setup-instructions)
   - [Screenshots](#screenshots)
     - [Homepage](#homepage)
+    - [Homepage 2](#homepage-2)
   - [Contact Information](#contact-information)
 
 ## Introduction
@@ -25,6 +26,7 @@ This sushi store CMS website allows users to browse products, add a new product 
 
 - Content Management System (CMS) functionality.
 - CRUD functionality.
+- Admin and Staff Role Authorization functionality.
 - Product browsing with search and filtering.
 - User authentication and authorization.
 
@@ -75,6 +77,10 @@ Access the website at <http://localhost:5173>
 ### Homepage
 
 ![Homepage](Homepage.png)
+
+### Homepage 2
+
+![Homepage 2](Homepage_2.png)
 
 ## Contact Information
 

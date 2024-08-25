@@ -9,7 +9,7 @@ export default function Footer() {
                 style={{ backgroundColor: "#f4eee0" }}
                 >
                 <Link to={`https://github.com/daditsan`} className="text-body">
-                    HCK-72 Adytia Isanda Putra
+                    Adytia Isanda Putra
                 </Link>
                 </div>
             </footer>
